@@ -16,3 +16,5 @@ print(c)
 print(d)
 
 
+print("New edition for new lesson")
+
